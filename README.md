@@ -6,10 +6,8 @@ this directory.
 
 You can buy this book at:
 
-http://oreilly.com/catalog/ ... need to add this ...
+http://shop.oreilly.com/product/0636920028925.do
 
 The author, Bill Burke, is the founder of the RESTEasy project.
-
-
 
 
