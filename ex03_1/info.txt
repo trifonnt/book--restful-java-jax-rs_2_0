@@ -1,0 +1,3 @@
+= test URLs
+ - http://localhost:8080/services/customers/1/
+ - http://localhost:8080/services2/customers/1/
